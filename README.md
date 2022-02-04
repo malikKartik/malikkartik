@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">A Full Stack developer and a Blockchain enthusiast</h3>
+𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikkartik&label=Profile%20views&color=0e75b6&style=flat" alt="malikkartik" /> </p>
 </p>
