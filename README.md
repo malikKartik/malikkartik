@@ -16,8 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SY6VP88e9q9Pb0CLomrbiw5IzQi3dvET/view?usp=sharing](https://drive.google.com/file/d/1SY6VP88e9q9Pb0CLomrbiw5IzQi3dvET/view?usp=sharing)
 
-- ⚡ Fun fact **I think I can code for 36 hours straight but my personal best is 25 mins 😥**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamkartikmalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamkartikmalik" height="30" width="40" /></a>
