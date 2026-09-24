@@ -39,17 +39,17 @@ Product / Infra: GitHub Actions · Analytics · Attribution · CI/CD · Figma
 
 What I like working on
 
-Cross-platform product architecture
+- Cross-platform product architecture
 
-Consumer fintech and investment experiences
+- Consumer fintech and investment experiences
 
-Mobile performance and release automation
+- Mobile performance and release automation
 
-Analytics and product instrumentation
+- Analytics and product instrumentation
 
-Design systems and reusable UI infrastructure
+- Design systems and reusable UI infrastructure
 
-Agentic / AI-assisted software development
+- Agentic / AI-assisted software development
 
 Connect with me
 
